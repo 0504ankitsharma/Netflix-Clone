@@ -11,8 +11,7 @@ This is a Netflix-Clone project built using HTML, CSS, and JavaScript. It fetche
 ## Live Demo
 You can view the live project here:
 - https://netflix-clone-seven-liard.vercel.app/
-- https://himanshukhosla123.github.io/netflix-clone-live/index.html
-
+  
 ## API Used
 This project uses The Movie Database (TMDB) API to fetch movie information.
 - Example API Endpoint: https://api.themoviedb.org/3/movie/550?api_key=bd139a0c491279f932481465da87c856
